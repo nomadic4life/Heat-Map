@@ -1,0 +1,10 @@
+.ticker-container {
+  background-color: lightgreen;
+  display: inline-block;
+  box-shadow: inset 0px 0px 85px red;
+}
+.ticker-container h2,
+p.ticker-name {
+  display: inline;
+  margin: 20px;
+}
